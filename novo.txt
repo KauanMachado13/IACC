@@ -1,4 +1,4 @@
-time do coração: Grêmio
+time rival: Inter
 nome: Kauan
 cidade: Torres
 idade: 19
